@@ -74,8 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : [https://image.edaily.co.kr/images/Photo/files/NP/S/2008/05/PS08050800040.JPG]},
+labels[1] : {"texts" : ["짜장은 맛있어"], "images" : [https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg]},
+labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : [https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]},
+labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : [https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp]},
+,
 }
-
 # ======================
 # 유틸
 # ======================
